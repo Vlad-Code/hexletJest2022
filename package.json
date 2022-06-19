@@ -1,0 +1,18 @@
+{
+  "name": "hexletjest2022",
+  "version": "1.0.0",
+  "description": "Learning of the Jest Framework",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "Vladislav Kungurov",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
